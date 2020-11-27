@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"it.unimol.save_the_bird"},{"l":"it.unimol.save_the_bird.application"},{"l":"it.unimol.save_the_bird.Exceptions"},{"l":"it.unimol.save_the_bird.GUI"}]

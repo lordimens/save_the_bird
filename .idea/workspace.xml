@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1372287e-bad7-426c-b11e-ca398486a7ba" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="13" selection-start-line="19" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/InterfaceHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/StartPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#StartPanel#0;class#StartPanel#0" />
+                <element signature="e#1276#1277#0" expanded="true" />
+                <element signature="e#1310#1311#0" expanded="true" />
+                <element signature="method#keyTyped#0;class#StartPanel#0" />
+                <element signature="method#keyPressed#0;class#StartPanel#0" />
+                <element signature="method#keyReleased#0;class#StartPanel#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/DefeatPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="56" column="56" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/ImageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Timer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <element signature="method#Timer#0;class#Timer#0" />
+                <element signature="e#790#791#0" expanded="true" />
+                <element signature="e#850#851#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/GamePanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#mouseWheelMoved#0;class#GamePanel#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>il</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/Main.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/application/ImageHandler.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/GUI/StartPanel.form" />
+        <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/GUI/StartPanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/GUI/GamePanel.form" />
+        <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/GUI/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/application/InterfaceHandler.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/GUI/GamePanel.form" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/FlappyBird.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Proiettile.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Sparatoria.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/CollisionHandler.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Shooting.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Game.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Bird.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/GUI/DefeatPanel.form" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/GUI/DefeatPanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/GUI/StartPanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/InterfaceHandler.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/Main.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/GUI/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/SaveAndTryAgainPanel.form" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/SavePanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/SaveAndTryAgainPanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/SavePanel.form" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/Exceptions/EmptyStringException.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/DefeatPanel.form" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/test/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/StartPanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/CollisionHandler.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Music.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Bird.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Shooting.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Timer.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/User.java" />
+        <option value="$PROJECT_DIR$/test/it/unimol/save_the_bird/application/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/module-info.java" />
+        <option value="$PROJECT_DIR$/allclasses-index.html" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/FileReader.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/FileWriter.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/ShowResult.form" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/DefeatPanel.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/ShowResult.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/ImageHandler.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/Main.java" />
+        <option value="$PROJECT_DIR$/test/it/unimol/save_the_bird/application/TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/InterfaceHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1950" />
+    <option name="height" value="2075" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="save_the_bird" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="save_the_bird" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="2" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="328" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570543024304" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="it.unimol.save_the_bird.application" />
+      <recent name="it.unimol.save_the_bird.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.unimol.save_the_bird.Main" />
+      <module name="CHROME_DINO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unimol.save_the_bird.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CHROME_DINO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unimol.save_the_bird.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unimol.save_the_bird.application" />
+      <option name="MAIN_CLASS_NAME" value="it.unimol.save_the_bird.application.TimerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerTest.check_61_seconds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CHROME_DINO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unimol.save_the_bird.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unimol.save_the_bird.application" />
+      <option name="MAIN_CLASS_NAME" value="it.unimol.save_the_bird.application.TimerTest" />
+      <option name="METHOD_NAME" value="check_61_seconds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CHROME_DINO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unimol.save_the_bird.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unimol.save_the_bird.application" />
+      <option name="MAIN_CLASS_NAME" value="it.unimol.save_the_bird.application.UserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.check_empty_username" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CHROME_DINO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unimol.save_the_bird.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unimol.save_the_bird.application" />
+      <option name="MAIN_CLASS_NAME" value="it.unimol.save_the_bird.application.UserTest" />
+      <option name="METHOD_NAME" value="check_empty_username" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TimerTest.check_61_seconds" />
+        <item itemvalue="JUnit.TimerTest" />
+        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="JUnit.UserTest.check_empty_username" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1372287e-bad7-426c-b11e-ca398486a7ba" name="Default Changelist" comment="" />
+      <created>1566458518933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566458518933</updated>
+      <workItem from="1566458521326" duration="1904000" />
+      <workItem from="1566461341942" duration="6804000" />
+      <workItem from="1566468247989" duration="398000" />
+      <workItem from="1566545396458" duration="882000" />
+      <workItem from="1566546393553" duration="7579000" />
+      <workItem from="1566568365139" duration="3697000" />
+      <workItem from="1566572136439" duration="2879000" />
+      <workItem from="1568444884635" duration="726000" />
+      <workItem from="1568614462619" duration="2424000" />
+      <workItem from="1568617579027" duration="4570000" />
+      <workItem from="1568638257020" duration="7989000" />
+      <workItem from="1568707340050" duration="2709000" />
+      <workItem from="1568725486148" duration="3597000" />
+      <workItem from="1568965643223" duration="9376000" />
+      <workItem from="1568984714027" duration="3955000" />
+      <workItem from="1569222278709" duration="6151000" />
+      <workItem from="1569307466645" duration="14909000" />
+      <workItem from="1569335035655" duration="116000" />
+      <workItem from="1569394960051" duration="17631000" />
+      <workItem from="1569486584019" duration="4775000" />
+      <workItem from="1569501801503" duration="3320000" />
+      <workItem from="1570003386462" duration="10346000" />
+      <workItem from="1570084400515" duration="3331000" />
+      <workItem from="1570176253351" duration="5982000" />
+      <workItem from="1570182372158" duration="1113000" />
+      <workItem from="1570194893100" duration="6605000" />
+      <workItem from="1570508417978" duration="5509000" />
+      <workItem from="1570532669589" duration="5787000" />
+      <workItem from="1573654148466" duration="122000" />
+      <workItem from="1576489701264" duration="18000" />
+      <workItem from="1576490066061" duration="293000" />
+      <workItem from="1578050999374" duration="99000" />
+      <workItem from="1598016380035" duration="1222000" />
+      <workItem from="1598274810070" duration="3535000" />
+      <workItem from="1598339840635" duration="613000" />
+      <workItem from="1598367815892" duration="658000" />
+      <workItem from="1598374896935" duration="117000" />
+      <workItem from="1598427620574" duration="1218000" />
+      <workItem from="1598968728206" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TimerTest_check_61_seconds - 2019.10.04 at 11h 29m 52s.xml">
+      <configuration name="TimerTest.check_61_seconds" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimerTest_check_61_seconds - 2019.10.04 at 11h 35m 02s.xml">
+      <configuration name="TimerTest.check_61_seconds" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimerTest - 2019.10.04 at 11h 40m 07s.xml">
+      <configuration name="TimerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimerTest - 2019.10.08 at 07h 40m 18s.xml">
+      <configuration name="TimerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest - 2019.10.08 at 07h 40m 31s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest - 2019.10.08 at 07h 41m 13s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest - 2019.10.08 at 13h 04m 53s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimerTest - 2019.10.08 at 15h 15m 19s.xml">
+      <configuration name="TimerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimerTest_check_61_seconds - 2019.10.08 at 15h 16m 07s.xml">
+      <configuration name="TimerTest.check_61_seconds" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimerTest_check_61_seconds - 2019.10.08 at 15h 18m 13s.xml">
+      <configuration name="TimerTest.check_61_seconds" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="153054000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2702884" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32997987" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20724346" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32997987" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../TOMBOLA_SEMPLIFICATA/src/it/unimol/tombola/Turno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="784" column="29" selection-start-line="784" selection-start-column="29" selection-end-line="784" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4348" column="15" selection-start-line="4348" selection-start-column="15" selection-end-line="4348" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Game.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5716" column="29" selection-start-line="5716" selection-start-column="29" selection-end-line="5716" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/GUI/DefeatPanel.form" />
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/GUI/DefeatPanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/immagini/background_game_panel.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SECONDO_HOMEWORK/src/it/unimol/secondo_homework/application/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/SaveAndTryAgainPanel.form" />
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/SaveAndTryAgainPanel.java" />
+    <entry file="file://$PROJECT_DIR$/../../TextEditor/src/it/unimol/texteditor/app/TextFile.java" />
+    <entry file="file://$PROJECT_DIR$/../../TextEditor/src/it/unimol/texteditor/app/TextFileHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/SavePanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/SavePanel.form" />
+    <entry file="file://$PROJECT_DIR$/../TERZO_HOMEWORK/src/it/unimol/terzo_homework/Exceptions/EmptyStringException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TERZO_HOMEWORK/src/it/unimol/terzo_homework/user_interface/InsertNewRecipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/DefeatPanel.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/test/UserTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/UserTest.java" />
+    <entry file="file://$PROJECT_DIR$/../TERZO_HOMEWORK/test/it/unimol/terzo_homework/application/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TERZO_HOMEWORK/src/it/unimol/terzo_homework/application/InterfaceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TERZO_HOMEWORK/src/it/unimol/terzo_homework/application/Recipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1719">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#438#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TERZO_HOMEWORK/src/it/unimol/terzo_homework/application/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1787" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SECONDO_HOMEWORK/src/it/unimol/secondo_homework/application/Flight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SECONDO_HOMEWORK/src/it/unimol/secondo_homework/application/StartListFlights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="20" column="61" lean-forward="true" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+          <folding>
+            <element signature="method#getInstance#0;class#StartListFlights#0" />
+            <element signature="method#createList#0;class#StartListFlights#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SECONDO_HOMEWORK/src/it/unimol/secondo_homework/GUI/BuyTicketPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+          <folding>
+            <element signature="method#searchEqualsPassport#0;class#BuyTicketPanel#0" />
+            <element signature="method#searchEqualsFlight#0;class#BuyTicketPanel#0" />
+            <element signature="method#insertUser#0;class#BuyTicketPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SECONDO_HOMEWORK/src/it/unimol/secondo_homework/GUI/MenuPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-info.java" />
+    <entry file="file://$PROJECT_DIR$/allclasses-index.html" />
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/FileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/ShowResult.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/ShowResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/it/unimol/save_the_bird/application/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/it/unimol/save_the_bird/application/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/Exceptions/EmptyStringException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="53" column="27" lean-forward="true" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1291#1292#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/CollisionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getInstance#0;class#FileReader#0" />
+            <element signature="method#readFile#0;class#FileReader#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Shooting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1881#1882#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="72" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#User#0;class#User#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="13" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/StartPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#StartPanel#0;class#StartPanel#0" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="method#keyTyped#0;class#StartPanel#0" />
+            <element signature="method#keyPressed#0;class#StartPanel#0" />
+            <element signature="method#keyReleased#0;class#StartPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/ImageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="method#Timer#0;class#Timer#0" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#mouseWheelMoved#0;class#GamePanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/GUI/DefeatPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="56" column="56" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/unimol/save_the_bird/application/InterfaceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CHROME_DINO</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
