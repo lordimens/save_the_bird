@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.21.0" timestamp="2021-02-10T17:08:46.203">
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\GUI\DefeatPanel.java">
+<violation beginline="24" endline="24" begincolumn="30" endcolumn="45" rule="UnusedPrivateField" ruleset="Best Practices" package="it.unimol.save_the_bird.GUI" class="DefeatPanel" variable="change_interface" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'change_interface'.
+</violation>
+</file>
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\GUI\GamePanel.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="45" rule="UnusedImports" ruleset="Best Practices" package="it.unimol.save_the_bird.GUI" class="GamePanel" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'it.unimol.save_the_bird.application'
+</violation>
+</file>
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\GUI\ShowResult.java">
+<violation beginline="20" endline="20" begincolumn="30" endcolumn="45" rule="UnusedPrivateField" ruleset="Best Practices" package="it.unimol.save_the_bird.GUI" class="ShowResult" variable="change_interface" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'change_interface'.
+</violation>
+</file>
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\application\Bullet.java">
+<violation beginline="12" endline="12" begincolumn="27" endcolumn="38" rule="UnusedPrivateField" ruleset="Best Practices" package="it.unimol.save_the_bird.application" class="Bullet" variable="bullet_image" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'bullet_image'.
+</violation>
+</file>
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\application\FileWriter.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Best Practices" package="it.unimol.save_the_bird.application" class="FileWriter" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.util.ArrayList'
+</violation>
+</file>
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\application\InterfaceHandler.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Best Practices" package="it.unimol.save_the_bird.application" class="InterfaceHandler" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'it.unimol.save_the_bird.GUI'
+</violation>
+</file>
+</pmd>

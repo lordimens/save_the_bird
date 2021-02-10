@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1372287e-bad7-426c-b11e-ca398486a7ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHROME_DINO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CHROME_DINO.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/Exceptions/EmptyStringException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/DefeatPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/DefeatPanel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/DefeatPanel$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/DefeatPanel$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/DefeatPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/GamePanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/GamePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/ShowResult$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/ShowResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/StartPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/GUI/StartPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/Bullet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/CollisionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/FileReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/FileWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/ImageHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/InterfaceHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/Music.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/Shooting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/Timer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHROME_DINO/it/unimol/save_the_bird/application/User.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="19" column="13" selection-start-line="19" selection-end-line="20" />
+            <state relative-caret-position="263">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="320">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -89,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/GUI/StartPanel.form" />
         <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/GUI/StartPanel.java" />
         <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/GUI/GamePanel.form" />
         <option value="$PROJECT_DIR$/src/it/unimol/angry_bird_NYC/GUI/GamePanel.java" />
@@ -140,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/InterfaceHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java" />
       </list>
     </option>
   </component>
@@ -154,6 +124,17 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="CHROME_DINO" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CHROME_DINO" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CHROME_DINO" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="pmd" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
@@ -183,6 +164,12 @@
               <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
               <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -373,7 +360,7 @@
       <workItem from="1606487943134" duration="507000" />
       <workItem from="1606488534802" duration="847000" />
       <workItem from="1607331248860" duration="315000" />
-      <workItem from="1612972259645" duration="815000" />
+      <workItem from="1612972259645" duration="1689000" />
     </task>
     <servers />
   </component>
@@ -410,13 +397,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155538000" />
+    <option name="totallyTimeSpent" value="156412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="846" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28236082" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28236082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,15 +412,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6396648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3896648" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -442,7 +429,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.3293092" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.12474849" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -755,16 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="13" selection-start-line="19" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/InterfaceHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -836,8 +813,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        <state relative-caret-position="320">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

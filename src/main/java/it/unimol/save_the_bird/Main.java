@@ -19,7 +19,6 @@ public class Main {
 
         Dimension frame_dimension = new Dimension(width, height);
 
-        //CREO LA FINESTRA DI GIOCO
         JFrame start_frame = new JFrame(game_name);
         start_frame.setPreferredSize(frame_dimension);
         start_frame.setMaximumSize(frame_dimension);
