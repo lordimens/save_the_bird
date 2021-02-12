@@ -18,7 +18,7 @@ import java.awt.image.BufferedImage;
 public class StartPanel extends JPanel implements KeyListener {
 
     private ImageHandler loader = new ImageHandler();
-    private BufferedImage background_start_panel = loader.loadImage("/immagini/background.jpg");
+    private BufferedImage background_start_panel = loader.loadImage("src/main/resources/background.jpg");
     private InterfaceHandler change_interface;
 
     private JPanel start_panel = new JPanel() {

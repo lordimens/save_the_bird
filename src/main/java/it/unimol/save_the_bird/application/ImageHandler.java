@@ -2,6 +2,7 @@ package it.unimol.save_the_bird.application;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
+import java.io.File;
 import java.io.IOException;
 
 public class ImageHandler {
@@ -15,7 +16,7 @@ public class ImageHandler {
      */
     public BufferedImage loadImage (String path){
         try {
-            image= ImageIO.read(getClass().getResource(path));
+            image= ImageIO.read(new File(path));
         } catch (IOException e) {
             System.err.println("Immagine non trovata");
         }
