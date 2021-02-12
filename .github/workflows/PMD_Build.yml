@@ -34,5 +34,5 @@ jobs:
       - name: artifact
         uses: actions/upload-artifact@v2
         with:
-          path: build/CHROME_DINO-1.0-SNAPSHOT.jar
+          path: src/main/java/it/unimol/save_the_bird/build/CHROME_DINO-1.0-SNAPSHOT.jar
           name: save_the_bird

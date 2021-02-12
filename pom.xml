@@ -49,7 +49,7 @@
                             <mainClass>it.unimol.save_the_bird.Main</mainClass>
                         </manifest>
                     </archive>
-                    <outputDirectory>build</outputDirectory>
+                    <outputDirectory>src/main/java/it/unimol/save_the_bird/build</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
