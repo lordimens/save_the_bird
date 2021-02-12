@@ -9,7 +9,7 @@ public class Bullet {
     private int height;
     private int width;
     private int speed;
-    private BufferedImage bullet_image;
+    public BufferedImage bullet_image;
 
     /**
      * Costruttore dell'oggetto Bullet.

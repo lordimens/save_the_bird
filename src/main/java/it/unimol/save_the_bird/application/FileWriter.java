@@ -3,7 +3,6 @@ package it.unimol.save_the_bird.application;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
-import java.util.ArrayList;
 import java.util.List;
 
 public class FileWriter{

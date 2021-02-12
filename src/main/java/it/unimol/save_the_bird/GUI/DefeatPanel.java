@@ -21,7 +21,7 @@ public class DefeatPanel {
     public JButton saveButton;
     private JLabel timerLabel;
 
-    private InterfaceHandler change_interface;
+    public InterfaceHandler change_interface;
     private List<User> results = new ArrayList<User>();
     private List<User> users = new ArrayList<User>();
 

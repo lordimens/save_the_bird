@@ -17,7 +17,7 @@ public class ShowResult {
     private JTextArea result_textArea;
     private JButton indietroButton;
 
-    private InterfaceHandler change_interface;
+    public InterfaceHandler change_interface;
 
     private FileReader fileReader = FileReader.getInstance();
     private File file_results = new File("Result.txt");
