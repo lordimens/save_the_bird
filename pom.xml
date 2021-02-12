@@ -38,6 +38,20 @@
                 <artifactId>maven-pmd-plugin</artifactId>
                 <version>3.13.0</version>
             </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <!-- Jar file entry point -->
+                            <mainClass>it.unimol.save_the_bird.Main</mainClass>
+                        </manifest>
+                    </archive>
+                    <outputDirectory>${project.basedir}/build</outputDirectory>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 

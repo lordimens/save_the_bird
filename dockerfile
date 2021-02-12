@@ -3,8 +3,6 @@
 #WORKDIR /tmp
 #ENTRYPOINT ["java","CHROME_DINO"]
 
-#24cfa9998836bfa230624cc7bbeae08f24c54b9e
-
 FROM openjdk:14
 
 RUN mkdir /artifact
