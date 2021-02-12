@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: pmd maven
-        run: mvn pmd:pmd
+        run: mvn -f pom.xml pmd:pmd
   build:
 
     runs-on: ubuntu-latest
