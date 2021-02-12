@@ -39,7 +39,7 @@ public class DefeatPanel {
 
 
 
-        timerLabel.setText("Il tuo tempo di sopravvivenza è stato: " + users.get(0).getSurvival_time());
+        //timerLabel.setText("Il tuo tempo di sopravvivenza è stato: " + users.get(0).getSurvival_time());
 
 
         try_againButton.addActionListener(new ActionListener() {
