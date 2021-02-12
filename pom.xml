@@ -46,12 +46,10 @@
                 <configuration>
                     <archive>
                         <manifest>
-<!--
-                            <addClasspath>true</addClasspath>
--->
                             <mainClass>it.unimol.save_the_bird.Main</mainClass>
                         </manifest>
                     </archive>
+                    <outputDirectory>build</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
