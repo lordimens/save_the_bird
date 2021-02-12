@@ -19,7 +19,7 @@ public class DefeatPanel {
     private JButton exitButton;
     private JButton visualizza_classificaButton;
     public JButton saveButton;
-    private JLabel timerLabel;
+    public JLabel timerLabel;
 
     public InterfaceHandler change_interface;
     private List<User> results = new ArrayList<User>();
@@ -36,7 +36,6 @@ public class DefeatPanel {
         this.change_interface = change_interface;
         results = fileReader.readFile(results, file_results);
         users = fileReader.readFile(results, file_last_user);
-
 
 
         timerLabel.setText("Il tuo tempo di sopravvivenza è stato: " + users.get(0).getSurvival_time());
