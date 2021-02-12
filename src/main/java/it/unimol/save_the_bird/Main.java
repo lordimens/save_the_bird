@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
         Music music = new Music();
         music.play("D:\\lordi\\lordi\\PROGETTI IntelliJ\\CHROME_DINO\\src\\musica\\traccia.wav").loop(6);
-
+//prova
         Dimension frame_dimension = new Dimension(width, height);
 
         JFrame start_frame = new JFrame(game_name);
