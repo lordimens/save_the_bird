@@ -15,6 +15,7 @@ jobs:
     name: Run PMD
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v1
       - name: pmd maven
         run: mvn -f pom.xml pmd:pmd
   build:
