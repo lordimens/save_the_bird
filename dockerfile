@@ -3,6 +3,8 @@
 #WORKDIR /tmp
 #ENTRYPOINT ["java","CHROME_DINO"]
 
+#24cfa9998836bfa230624cc7bbeae08f24c54b9e
+
 FROM openjdk:14
 
 RUN mkdir /artifact
@@ -15,7 +17,7 @@ RUN apt install curl
 
 RUN apt-get install -y libxrender1 libxtst6 libxi6
 
-RUN curl -L -H "Accept: application/vnd.github.v3+json" -H "Authorization: token 1d21e084fc6f917cf26f0740737abe0495cfe4d8" https://api.github.com/repos/Devy99/dragonball-game-java/actions/artifacts/35346488/zip --output game.zip
+RUN curl -L -H "Accept: application/vnd.github.v3+json" -H "Authorization:{token}" https://api.github.com/repos/Devy99/dragonball-game-java/actions/artifacts/35346488/zip --output game.zip
 
 RUN unzip game.zip
 
