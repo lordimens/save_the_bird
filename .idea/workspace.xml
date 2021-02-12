@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1372287e-bad7-426c-b11e-ca398486a7ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/PMD_Build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/PMD_Build.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -27,16 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/workflows/PMD_Build.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="102">
+              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -64,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Bullet.java" />
         <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/CollisionHandler.java" />
         <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Shooting.java" />
         <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Game.java" />
@@ -115,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/FileWriter.java" />
         <option value="$PROJECT_DIR$/.github/workflows/maven.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.github/workflows/PMD_Build.yml" />
       </list>
     </option>
   </component>
@@ -152,22 +147,6 @@
               <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
               <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
-              <item name=".github" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
-              <item name=".github" type="462c0819:PsiDirectoryNode" />
-              <item name="workflows" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -185,7 +164,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="328" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613132438769" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613136760901" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -361,7 +340,7 @@
       <workItem from="1613059062513" duration="111000" />
       <workItem from="1613059198931" duration="1576000" />
       <workItem from="1613119939694" duration="2085000" />
-      <workItem from="1613126433739" duration="6441000" />
+      <workItem from="1613126433739" duration="6732000" />
     </task>
     <servers />
   </component>
@@ -398,13 +377,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169653000" />
+    <option name="totallyTimeSpent" value="169944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="846" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3065057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3065057" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -413,7 +392,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2555866" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48743016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -421,7 +400,7 @@
       <window_info anchor="bottom" id="Docker" order="7" weight="0.20810056" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.15083799" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.424581" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -808,16 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/workflows/PMD_Build.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -825,6 +794,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/PMD_Build.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
