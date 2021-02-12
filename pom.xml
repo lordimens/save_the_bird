@@ -40,16 +40,16 @@
             </plugin>
 
             <plugin>
+                <!-- Build an executable JAR -->
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
                 <configuration>
                     <archive>
                         <manifest>
-                            <!-- Jar file entry point -->
+                            <addClasspath>true</addClasspath>
                             <mainClass>it.unimol.save_the_bird.Main</mainClass>
                         </manifest>
                     </archive>
-                    <outputDirectory>${project.basedir}/build</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>

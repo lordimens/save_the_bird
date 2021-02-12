@@ -37,6 +37,8 @@ public class DefeatPanel {
         results = fileReader.readFile(results, file_results);
         users = fileReader.readFile(results, file_last_user);
 
+
+
         timerLabel.setText("Il tuo tempo di sopravvivenza è stato: " + users.get(0).getSurvival_time());
 
 

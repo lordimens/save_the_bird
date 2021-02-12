@@ -29,8 +29,8 @@ public class ShowResult {
 
         results = fileReader.readFile(results, file_results);
 
-        Font f = new Font("Helvetica", Font.BOLD, 20);
-        result_textArea.setFont(f);
+/*        Font f = new Font("Helvetica", Font.BOLD, 20);
+        result_textArea.setFont(f);*/
         for (int i = 0; i < results.size(); i++) {
             result_textArea.append("Utente: " + results.get(i).getUsername() + " - Tempo: " + results.get(i).getSurvival_time() + "\n");
         }

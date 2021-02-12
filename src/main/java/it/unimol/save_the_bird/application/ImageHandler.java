@@ -16,7 +16,7 @@ public class ImageHandler {
      */
     public BufferedImage loadImage (String path){
         try {
-            image= ImageIO.read(new File(path));
+            image= ImageIO.read(getClass().getClassLoader().getResource(path));
         } catch (IOException e) {
             System.err.println("Immagine non trovata");
         }

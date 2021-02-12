@@ -24,9 +24,9 @@ public class GamePanel implements MouseWheelListener {
     private Music music = new Music();
 
     //CARICAMENTO IMMAGINI
-    private BufferedImage bird = loader.loadImage("src/main/resources/bird.png");
-    private BufferedImage bullet = loader.loadImage("src/main/resources/bullet.png");
-    private BufferedImage background_game_panel = loader.loadImage("src/main/resources/background_game_panel.jpg");
+    private BufferedImage bird = loader.loadImage("bird.png");
+    private BufferedImage bullet = loader.loadImage("bullet.png");
+    private BufferedImage background_game_panel = loader.loadImage("background_game_panel.jpg");
 
 
     private Bird pio = new Bird(bird, 100, 100, 50, 15);

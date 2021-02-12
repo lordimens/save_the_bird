@@ -3,8 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="1372287e-bad7-426c-b11e-ca398486a7ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last_User.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Last_User.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Result.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/ShowResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/ShowResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/StartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/StartPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/ImageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/ImageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/background_game_panel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bird.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/game_over.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CHROME_DINO-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/CHROME_DINO-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/DefeatPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/StartPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/GUI/StartPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/application/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/application/FileReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/application/ImageHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/save_the_bird/application/ImageHandler.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="226">
               <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -29,28 +50,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.github/workflows/PMD_Build.yml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="124">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#823#829#0" expanded="true" />
+                <element signature="e#1900#1901#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dockerfile">
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/FileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="175">
+              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getInstance#0;class#FileReader#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/ShowResult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+            <state relative-caret-position="107">
+              <caret line="31" column="2" selection-start-line="31" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/InterfaceHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/CollisionHandler.java" />
         <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Shooting.java" />
         <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Game.java" />
         <option value="$PROJECT_DIR$/src/it/unimol/flappy_bird_NYC/application/Bird.java" />
@@ -118,17 +162,18 @@
         <option value="$PROJECT_DIR$/test/it/unimol/save_the_bird/application/TimerTest.java" />
         <option value="$PROJECT_DIR$/src/it/unimol/save_the_bird/application/InterfaceHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/ImageHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/StartPanel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/GamePanel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/ShowResult.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/Bullet.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/FileWriter.java" />
         <option value="$PROJECT_DIR$/.github/workflows/maven.yml" />
         <option value="$PROJECT_DIR$/.github/workflows/PMD_Build.yml" />
         <option value="$PROJECT_DIR$/dockerfile" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/ImageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/StartPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/FileReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/ShowResult.java" />
       </list>
     </option>
   </component>
@@ -171,6 +216,17 @@
               <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CHROME_DINO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CHROME_DINO" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -188,7 +244,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="328" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613138671032" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613143042759" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -208,11 +264,17 @@
       <recent name="it.unimol.save_the_bird.application" />
       <recent name="it.unimol.save_the_bird.test" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird" />
+      <recent name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\immagini" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\resources" />
+      <recent name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\immagini" />
+      <recent name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java" />
       <recent name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src" />
     </key>
   </component>
@@ -364,7 +426,7 @@
       <workItem from="1613059062513" duration="111000" />
       <workItem from="1613059198931" duration="1576000" />
       <workItem from="1613119939694" duration="2085000" />
-      <workItem from="1613126433739" duration="8434000" />
+      <workItem from="1613126433739" duration="12935000" />
     </task>
     <servers />
   </component>
@@ -401,13 +463,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171646000" />
+    <option name="totallyTimeSpent" value="176147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="846" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3065057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3065057" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,8 +477,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48743016" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282123" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41061452" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,7 +486,7 @@
       <window_info anchor="bottom" id="Docker" order="7" weight="0.20810056" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18854749" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.12988827" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -473,9 +535,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/background_game_panel.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SECONDO_HOMEWORK/src/it/unimol/secondo_homework/application/User.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -631,18 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getInstance#0;class#FileReader#0" />
-            <element signature="method#readFile#0;class#FileReader#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/Shooting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="656">
@@ -691,83 +738,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/background.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/InterfaceHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/ImageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/game_over.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/GamePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#mouseWheelMoved#0;class#GamePanel#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/StartPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="20" column="101" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="101" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#StartPanel#0;class#StartPanel#0" />
-            <element signature="method#keyTyped#0;class#StartPanel#0" />
-            <element signature="method#keyPressed#0;class#StartPanel#0" />
-            <element signature="method#keyReleased#0;class#StartPanel#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/cpd.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#823#829#0" expanded="true" />
-            <element signature="e#878#884#0" expanded="true" />
-            <element signature="e#2961#2962#0" expanded="true" />
-            <element signature="e#2995#2996#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/ShowResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/Bullet.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -804,20 +782,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.github/workflows/PMD_Build.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="373">
+          <caret line="58" column="10" lean-forward="true" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -828,10 +796,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/.github/workflows/PMD_Build.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        <state relative-caret-position="325">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Last_User.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/ImageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/StartPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#StartPanel#0;class#StartPanel#0" />
+            <element signature="method#keyTyped#0;class#StartPanel#0" />
+            <element signature="method#keyPressed#0;class#StartPanel#0" />
+            <element signature="method#keyReleased#0;class#StartPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#mouseWheelMoved#0;class#GamePanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getInstance#0;class#FileReader#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/application/InterfaceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/DefeatPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#823#829#0" expanded="true" />
+            <element signature="e#1900#1901#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/save_the_bird/GUI/ShowResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="31" column="2" selection-start-line="31" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
