@@ -63,7 +63,7 @@ public class GamePanel implements MouseWheelListener {
             for (int i = 0; i < bullets.size(); i++) {
                 if (CollisionHandler.checkCollision(pio, bullets.get(i))) {
                     bullets.remove(i);
-                    music.play("D:\\lordi\\lordi\\PROGETTI IntelliJ\\CHROME_DINO\\src\\musica\\sparo.wav").start();
+                    //music.play("D:\\lordi\\lordi\\PROGETTI IntelliJ\\CHROME_DINO\\src\\musica\\sparo.wav").start();
                     pio.life -= 1;
                 }
                 if (pio.life == 0) {

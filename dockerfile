@@ -1,9 +1,4 @@
-#FROM openjdk:14
-#COPY ./out/production/ /tmp
-#WORKDIR /tmp
-#ENTRYPOINT ["java","CHROME_DINO"]
-
-FROM openjdk:14
+FROM openjdk:8
 
 RUN mkdir /artifact
 RUN cd artifact
@@ -15,8 +10,8 @@ RUN apt install curl
 
 RUN apt-get install -y libxrender1 libxtst6 libxi6
 
-RUN curl -L -H "Accept: application/vnd.github.v3+json" -H "Authorization:{token}" https://api.github.com/repos/Devy99/dragonball-game-java/actions/artifacts/35346488/zip --output game.zip
+RUN curl -L -H "Accept: application/vnd.github.v3+json" -H "Authorization:" https://api.github.com/repos/lordimens/save_the_bird/actions/artifacts/40757168/zip --output game.zip
 
 RUN unzip game.zip
 
-CMD ["java", "-jar", "CHROME_DINO.jar"]
+CMD ["java", "-jar", "CHROME_DINO-1.0-SNAPSHOT.jar"]
