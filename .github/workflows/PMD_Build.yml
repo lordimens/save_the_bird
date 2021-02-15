@@ -24,7 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: docck
-        run: docck:check
+        run: mvn docck:check
 
   spotBugs:
     name: Run Spotbugs
