@@ -53,7 +53,7 @@
                 <version>3.13.0</version>
                 <configuration>
                     <rulesets>
-                        <ruleset>pmd configurations\configuration_pmd.xml</ruleset>
+                        <ruleset>pmd configurations/configuration_pmd.xml</ruleset>
                     </rulesets>
                 </configuration>
             </plugin>
