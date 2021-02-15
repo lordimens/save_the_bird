@@ -18,6 +18,14 @@ jobs:
       - name: pmd maven
         run: mvn pmd:pmd
 
+  docck:
+    name: Run docck
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: docck
+        run: docck:check
+
   spotBugs:
     name: Run Spotbugs
     runs-on: ubuntu-latest
