@@ -13,6 +13,7 @@ public class ImageHandler {
      * specificata nel path non viene trovata.
      *
      * @param path Percorso dell'immagine.
+     * @return immagine
      */
     public BufferedImage loadImage (String path){
         try {

@@ -2,5 +2,23 @@
 <pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
-    version="6.21.0" timestamp="2021-02-12T12:50:01.943">
+    version="6.21.0" timestamp="2021-02-15T16:52:55.730">
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\GUI\GamePanel.java">
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Best Practices" package="it.unimol.save_the_bird.GUI" class="GamePanel" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.sql.ResultSet'
+</violation>
+<violation beginline="25" endline="25" begincolumn="19" endcolumn="23" rule="UnusedPrivateField" ruleset="Best Practices" package="it.unimol.save_the_bird.GUI" class="GamePanel" variable="music" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'music'.
+</violation>
+</file>
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\Main.java">
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="49" rule="UnusedImports" ruleset="Best Practices" package="it.unimol.save_the_bird" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'it.unimol.save_the_bird.application.Music'
+</violation>
+</file>
+<file name="D:\lordi\lordi\PROGETTI IntelliJ\CHROME_DINO\src\main\java\it\unimol\save_the_bird\application\ImageHandler.java">
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Best Practices" package="it.unimol.save_the_bird.application" class="ImageHandler" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+</file>
 </pmd>

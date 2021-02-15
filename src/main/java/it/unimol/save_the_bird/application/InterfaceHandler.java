@@ -25,6 +25,7 @@ public class InterfaceHandler {
 
     /**
      * Ad ogni stato effettua una rimozione di un determinato JPanel e lo sostituisce con quello desiderato.
+     * @param status stato
      */
 
     public void choise(int status) {
