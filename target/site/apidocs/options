@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/lordi/lordi/PROGETTI IntelliJ/CHROME_DINO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/lordi/lordi/PROGETTI IntelliJ/CHROME_DINO/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CHROME_DINO 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/lordi/lordi/PROGETTI IntelliJ/CHROME_DINO/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CHROME_DINO 1.0-SNAPSHOT API'
